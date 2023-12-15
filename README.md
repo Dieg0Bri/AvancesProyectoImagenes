@@ -13,5 +13,6 @@ igualmente no se puede saltar el paso de subir el coco_instance_base.py y los da
 
 Tambien este repositorio cuenta con un par de imagenes de ejemplo de la segmentación semantica y un json con los las metricas pedidas (llamado scalars.json)
 
+Este github cuenta con la planificación
 
-
+y este es el link del video de la presentacion https://youtu.be/BFQnu4bLAFQ
