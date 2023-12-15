@@ -1,7 +1,10 @@
 # AvancesProyectoImagenes
+
+
 using Swin-t transformers to do a semantic segmentation in MinneApple
-Cuando ya esta descargado el dataset en el colab y esta inicializado el mmdetection
-Los archivos de config_swin2.py y coco_instance_base.py van en la carpeta de '/content/mmdetection/configs/' y '/content/mmdetection/configs/base/datasets'.
+el notebook de la entrega final es el que termina con FINAL. 
+
+Cuando ya esta descargado el dataset en el colab y esta inicializado el mmdetection los archivos de config_swin2.py y coco_instance_base.py van en la carpeta de '/content/mmdetection/configs/' y '/content/mmdetection/configs/base/datasets'.
 
 Mientras que los archivos json con las anotaciones van en la carpeta de /content/detection/train/
 
